@@ -1,0 +1,14 @@
+﻿<PhoneApp85_ViewModels:MainViewModel xmlns:PhoneApp85_ViewModels="clr-namespace:PhoneApp85.ViewModels" xmlns:PhoneApp85_Models="clr-namespace:PhoneApp85.Models">
+	<PhoneApp85_ViewModels:MainViewModel.People>
+		<PhoneApp85_Models:Person FavoriteColor="#FF8DD3C7" Name="Aaberg, Jesper"/>
+		<PhoneApp85_Models:Person FavoriteColor="#FFFFFFB3" Name="Adams, Ellen"/>
+		<PhoneApp85_Models:Person FavoriteColor="#FFBEBADA" Name="Adams, Terry"/>
+		<PhoneApp85_Models:Person FavoriteColor="#FFFB8072" Name="Adams, Terry"/>
+		<PhoneApp85_Models:Person FavoriteColor="#FF80B1D3" Name="Penor, Lori"/>
+		<PhoneApp85_Models:Person FavoriteColor="#FFFDB462" Name="Pfeiffer, Michael"/>
+		<PhoneApp85_Models:Person FavoriteColor="#FFB3DE69" Name="Philips, Carol"/>
+		<PhoneApp85_Models:Person FavoriteColor="#FFFCCDE5" Name="Poe, Toni"/>
+		<PhoneApp85_Models:Person FavoriteColor="#FFD9D9D9" Name="Hicks, Cassie"/>
+		<PhoneApp85_Models:Person FavoriteColor="#FFBC80BD" Name="Argentiero, Luca"/>
+	</PhoneApp85_ViewModels:MainViewModel.People>
+</PhoneApp85_ViewModels:MainViewModel>
